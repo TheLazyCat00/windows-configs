@@ -1,0 +1,4 @@
+["./AppData/Local/nvim"]
+type = "git-repo"
+url = "https://github.com/TheLazyCat00/Nvim-Config"
+refreshPeriod = "24h"

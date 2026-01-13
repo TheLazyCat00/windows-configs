@@ -1,3 +1,5 @@
+theme = "Rose Pine"
+
 [renderer]
 performance = "high"
 backend = "dx12"

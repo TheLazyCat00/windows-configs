@@ -1,0 +1,6 @@
+[renderer]
+performance = "high"
+backend = "dx12"
+
+[shell]
+program = "bash -c 'cd ~/projects && exec bash'"
